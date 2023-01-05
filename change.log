@@ -1,0 +1,41 @@
+OR Tools - Dialogue Generator v1.0
+-----------------------------------------------------------
+
+> Simplify code for expandability.
+> Added dialogue type selection system,
+supporting all current dialogue types.
+> Updated colors
+
+OR Tools - Dialogue Generator v1.1
+-----------------------------------------------------------
+
+> Removed npcName input. 
+> Tweaked processing for npc identifier,
+based on variables from xCore.
+
+OR Tools - Dialogue Generator v1.2
+-----------------------------------------------------------
+
+> Raised maxLength from 37 to 42
+for input.
+
+OR Tools - Dialogue Generator v1.3
+-----------------------------------------------------------
+
+> Added an option to enable message
+counter without the next button. 
+> Introduced all variables to general
+messages, multi-page messages, and
+quest offers. 
+
+OR Tools - Dialogue Generator v1.4
+-----------------------------------------------------------
+
+> Visual Beautification
+
+OR Tools - Dialogue Generator v1.5
+-----------------------------------------------------------
+
+> Removed character limited.
+> Added warning for passing
+recommended limit.
